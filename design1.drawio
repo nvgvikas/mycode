@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-05T08:31:29.113Z" agent="5.0 (Windows)" etag="Orfsmrhe5ee5Y-wprKQW" version="13.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-05T08:33:01.247Z" agent="5.0 (Windows)" etag="XgaTelHQMC-_M_Me_3Gv" version="13.0.7" type="github">
   <diagram id="OhRtaLYme5AcBo3-V063" name="Page-1">
     <mxGraphModel dx="1230" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,13 @@
           <mxGeometry x="100" y="250" width="686" height="472" as="geometry" />
         </mxCell>
         <mxCell id="lwh2pheY_U8_9oyxFPsG-10" value="Raw material" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#999999;strokeColor=#999999;verticalAlign=bottom" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="160" y="320" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lwh2pheY_U8_9oyxFPsG-11" value="Quantity" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.textfield;align=center;strokeColor=#999999;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lwh2pheY_U8_9oyxFPsG-14" value="Request" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="614.5" y="430" width="105.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
